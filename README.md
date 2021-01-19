@@ -4,7 +4,8 @@ This repository contains the code for our paper - TBD
 
 ### Wikidata ###
 
-* Dataset - T-Rex ([Link](https://hadyelsahar.github.io/t-rex/))
+* Dataset - We have extracted an EL dataset from the T-Rex dataset ([Link](https://hadyelsahar.github.io/t-rex/))
+Please refer this ([link](https://figshare.com/articles/dataset/CHOLAN-EL-Dataset/13607282)) to download the dataset used in our experiments
 
 ### Wikipedia ###
 
