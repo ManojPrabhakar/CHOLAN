@@ -1,29 +1,16 @@
-# README #
+# CHOLAN: A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains the code for our paper - TBD
 
-### What is this repository for? ###
+### Wikidata ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Dataset - T-Rex ([Link](https://hadyelsahar.github.io/t-rex/))
 
-### How do I get set up? ###
+### Wikipedia ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Dataset - AIDA-CoNLL 
 
-### Contribution guidelines ###
+### Candidate Generation ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* FALCON 2.0 - The locally indexed KG items have been used. Please refer to this repository([Link](https://github.com/SDM-TIB/falcon2.0)) for the set up using the Wikidata dump.
+* DCA - A predefined candidate set ([Link](https://github.com/YoungXiyuan/DCA)) has been used. (Wikipedia)
