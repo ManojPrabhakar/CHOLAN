@@ -18,9 +18,9 @@ CHOLAN : A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata 
 ## Setup 
 Requirements: Python 3.6 or 3.7, torch>=1.2.0
 
-## Running
-python cholan.py  
--- More information will be added soon. Sorry for the inconvenience.
+## Running 
+python cholan.py &nbsp;  
+-- Under construction 
 
 ## Citation
 ```
