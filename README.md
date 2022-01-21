@@ -1,6 +1,6 @@
-# CHOLAN #
+# CHOLAN - [Q105079136](https://www.wikidata.org/wiki/Q105079136) #
 
-CHOLAN : A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata ([paper](https://arxiv.org/abs/2101.09969))
+CHOLAN : A Modular Approach for Neural Entity Linking on Wikipedia and Wikidata ([paper](https://aclanthology.org/2021.eacl-main.40/))
 
 ## Wikidata
 
@@ -20,7 +20,6 @@ Requirements: Python 3.6 or 3.7, torch>=1.2.0
 
 ## Running 
 python cholan.py &nbsp;  
--- Under construction 
 
 ## Citation
 ```
